@@ -1,6 +1,8 @@
 <h1>Просмотр метрик производительности приложения</h1>
 <h2>Установка</h2>
-<code>yarn add metrics-sevice-helper<br>or<br>npm i metrics-sevice-helper</code>
+<code>yarn add metrics-sevice-helper</code>
+or
+<code>npm i metrics-sevice-helper</code>
 <h2>Пример использования</h2>
 <code>showMetrics("mark" | "measure" | "navigation" | "resource" | "paint" | "layout-shift" | "longtask" | "first-input")</code>
 <h2>Значения, передаваемые в метод showMetrics</h2>
