@@ -1,0 +1,16 @@
+{
+  "name": "metrics-helper-service",
+  "version": "1.0.10",
+  "description": "Описание",
+  "main": "main.js",
+  "author": "Alexander Ioniv",
+  "license": "MIT",
+  "type": "module",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
